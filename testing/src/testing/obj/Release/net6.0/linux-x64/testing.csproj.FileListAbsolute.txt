@@ -1,0 +1,17 @@
+C:\Users\Jason\Desktop\testing\src\testing\bin\Release\net6.0\linux-x64\testing.deps.json
+C:\Users\Jason\Desktop\testing\src\testing\bin\Release\net6.0\linux-x64\testing.runtimeconfig.json
+C:\Users\Jason\Desktop\testing\src\testing\bin\Release\net6.0\linux-x64\testing.dll
+C:\Users\Jason\Desktop\testing\src\testing\bin\Release\net6.0\linux-x64\testing.pdb
+C:\Users\Jason\Desktop\testing\src\testing\bin\Release\net6.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\Jason\Desktop\testing\src\testing\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Jason\Desktop\testing\src\testing\obj\Release\net6.0\linux-x64\testing.csproj.AssemblyReference.cache
+C:\Users\Jason\Desktop\testing\src\testing\obj\Release\net6.0\linux-x64\testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Desktop\testing\src\testing\obj\Release\net6.0\linux-x64\testing.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\testing\src\testing\obj\Release\net6.0\linux-x64\testing.AssemblyInfo.cs
+C:\Users\Jason\Desktop\testing\src\testing\obj\Release\net6.0\linux-x64\testing.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\testing\src\testing\obj\Release\net6.0\linux-x64\testing.csproj.CopyComplete
+C:\Users\Jason\Desktop\testing\src\testing\obj\Release\net6.0\linux-x64\testing.dll
+C:\Users\Jason\Desktop\testing\src\testing\obj\Release\net6.0\linux-x64\refint\testing.dll
+C:\Users\Jason\Desktop\testing\src\testing\obj\Release\net6.0\linux-x64\testing.pdb
+C:\Users\Jason\Desktop\testing\src\testing\obj\Release\net6.0\linux-x64\testing.genruntimeconfig.cache
+C:\Users\Jason\Desktop\testing\src\testing\obj\Release\net6.0\linux-x64\ref\testing.dll

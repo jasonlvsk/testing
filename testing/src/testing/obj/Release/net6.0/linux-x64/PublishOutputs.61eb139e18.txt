@@ -1,0 +1,6 @@
+C:\Users\Jason\Desktop\testing\src\testing\bin\Release\net6.0\publish\testing.deps.json
+C:\Users\Jason\Desktop\testing\src\testing\bin\Release\net6.0\publish\testing.runtimeconfig.json
+C:\Users\Jason\Desktop\testing\src\testing\bin\Release\net6.0\publish\testing.pdb
+C:\Users\Jason\Desktop\testing\src\testing\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Jason\Desktop\testing\src\testing\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Jason\Desktop\testing\src\testing\bin\Release\net6.0\publish\testing.dll
